@@ -25,7 +25,8 @@ Response Placeholder
       .then((data)=>{
         ////
         console.log("second then, data="+data.message)
-        responseText.innerText = data.message
+        //responseText.innerText = data.message
+        responseText.innerText = JSON.stringify(data)
     })
       console.log("static replacement text")
     })
