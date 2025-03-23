@@ -1,0 +1,20 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Sparks",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "NV",
+				"name": "Nevada"
+			},
+			"timezone": "America/Los_Angeles",
+			"latitude": 39.5449,
+			"longitude": -119.7572,
+			"postalCode": "89431"
+		},
+		"timestamp": 1742728138215
+	}
+}
