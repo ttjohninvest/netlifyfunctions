@@ -23,6 +23,7 @@ Response Placeholder
         console.log("first then, response="+response)
         return response.json()})
       .then((data)=>{
+        ////
         console.log("second then, data="+data.message)
         responseText.innerText = data.message
     })
